@@ -2,7 +2,7 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-08 21:18 UTC
+Last updated: 2026-08-09 16:19 UTC
 
 ## Summary
 
@@ -14,11 +14,11 @@ Last updated: 2026-08-08 21:18 UTC
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 1 |
-| Hash Table | 1 |
+| String | 1 |
+| Two Pointers | 1 |
 
 ## Solved Problems
 
 | # | Problem | Difficulty | Topics | Language | Solution | Last accepted |
 | ---: | --- | --- | --- | --- | --- | --- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Array, Hash Table | java | [Code](./1-two-sum/1-two-sum.java) | 2026-08-08 |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-09 |
