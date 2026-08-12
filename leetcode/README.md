@@ -2,20 +2,20 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-12 17:18 UTC
+Last updated: 2026-08-12 18:30 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 5 | 3 | 2 | 0 |
+| 6 | 3 | 3 | 0 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| String | 3 |
-| Two Pointers | 3 |
+| String | 4 |
+| Two Pointers | 4 |
 | Array | 2 |
 | Greedy | 2 |
 | Sliding Window | 2 |
@@ -29,3 +29,4 @@ Last updated: 2026-08-12 17:18 UTC
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-08-11 |
+| 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium | Two Pointers, String | java | [Code](./1616-split-two-strings-to-make-palindrome/1616-split-two-strings-to-make-palindrome.java) | 2026-08-12 |
