@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-15 09:41 UTC
+Last updated: 2026-08-16 18:22 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 9 | 5 | 4 | 0 |
+| 10 | 6 | 4 | 0 |
 
 ## Topics
 
@@ -37,3 +37,4 @@ Last updated: 2026-08-15 09:41 UTC
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-08-11 |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium | Two Pointers, String | java | [Code](./1616-split-two-strings-to-make-palindrome/1616-split-two-strings-to-make-palindrome.java) | 2026-08-12 |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | - | java | [Code](./4024-nearest-available-drone/4024-nearest-available-drone.java) | 2026-08-16 |
