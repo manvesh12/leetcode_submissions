@@ -2,27 +2,29 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-18 17:08 UTC
+Last updated: 2026-08-18 17:38 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 11 | 7 | 4 | 0 |
+| 12 | 7 | 5 | 0 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 6 |
+| Array | 7 |
+| Two Pointers | 6 |
 | String | 5 |
-| Two Pointers | 5 |
 | Sliding Window | 3 |
 | Greedy | 2 |
+| Sorting | 2 |
 | Binary Search | 1 |
+| Bubble Sort | 1 |
 | Dynamic Programming | 1 |
 | Prefix Sum | 1 |
-| Sorting | 1 |
+| Quicksort | 1 |
 | Trie | 1 |
 
 ## Solved Problems
@@ -31,6 +33,7 @@ Last updated: 2026-08-18 17:08 UTC
 | ---: | --- | --- | --- | --- | --- | --- |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | java | [Code](./11-container-with-most-water/11-container-with-most-water.java) | 2026-08-11 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | cpp | [Code](./14-longest-common-prefix/14-longest-common-prefix.cpp) | 2026-08-14 |
+| 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
