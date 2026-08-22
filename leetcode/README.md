@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-21 17:56 UTC
+Last updated: 2026-08-22 04:32 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 15 | 9 | 6 | 0 |
+| 16 | 10 | 6 | 0 |
 
 ## Topics
 
@@ -16,13 +16,15 @@ Last updated: 2026-08-21 17:56 UTC
 | --- | ---: |
 | Array | 10 |
 | Two Pointers | 6 |
+| Binary Search | 5 |
 | String | 5 |
-| Binary Search | 4 |
 | Sliding Window | 3 |
 | Greedy | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
 | Dynamic Programming | 1 |
+| Math | 1 |
+| Newton's Method | 1 |
 | Prefix Sum | 1 |
 | Quicksort | 1 |
 | Trie | 1 |
@@ -35,6 +37,7 @@ Last updated: 2026-08-21 17:56 UTC
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | cpp | [Code](./14-longest-common-prefix/14-longest-common-prefix.cpp) | 2026-08-14 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | java | [Code](./34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.java) | 2026-08-21 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | java | [Code](./35-search-insert-position/35-search-insert-position.java) | 2026-08-19 |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | java | [Code](./69-sqrtx/69-sqrtx.java) | 2026-08-22 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
