@@ -2,31 +2,34 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-22 04:32 UTC
+Last updated: 2026-08-23 18:25 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 16 | 10 | 6 | 0 |
+| 17 | 10 | 6 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 10 |
+| Array | 11 |
 | Two Pointers | 6 |
 | Binary Search | 5 |
 | String | 5 |
 | Sliding Window | 3 |
+| Dynamic Programming | 2 |
 | Greedy | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
-| Dynamic Programming | 1 |
 | Math | 1 |
+| Matrix | 1 |
+| Monotonic Stack | 1 |
 | Newton's Method | 1 |
 | Prefix Sum | 1 |
 | Quicksort | 1 |
+| Stack | 1 |
 | Trie | 1 |
 
 ## Solved Problems
@@ -39,6 +42,7 @@ Last updated: 2026-08-22 04:32 UTC
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | java | [Code](./35-search-insert-position/35-search-insert-position.java) | 2026-08-19 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | java | [Code](./69-sqrtx/69-sqrtx.java) | 2026-08-22 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack | java | [Code](./85-maximal-rectangle/85-maximal-rectangle.java) | 2026-08-23 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
