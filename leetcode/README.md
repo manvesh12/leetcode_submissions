@@ -2,21 +2,21 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-23 18:25 UTC
+Last updated: 2026-08-24 18:12 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 17 | 10 | 6 | 1 |
+| 18 | 10 | 7 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 11 |
+| Array | 12 |
+| Binary Search | 6 |
 | Two Pointers | 6 |
-| Binary Search | 5 |
 | String | 5 |
 | Sliding Window | 3 |
 | Dynamic Programming | 2 |
@@ -50,6 +50,7 @@ Last updated: 2026-08-23 18:25 UTC
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
+| 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | java | [Code](./875-koko-eating-bananas/875-koko-eating-bananas.java) | 2026-08-24 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-08-11 |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium | Two Pointers, String | java | [Code](./1616-split-two-strings-to-make-palindrome/1616-split-two-strings-to-make-palindrome.java) | 2026-08-12 |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | - | java | [Code](./4024-nearest-available-drone/4024-nearest-available-drone.java) | 2026-08-17 |
