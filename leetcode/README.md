@@ -2,7 +2,7 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-25 19:45 UTC
+Last updated: 2026-08-28 17:54 UTC
 
 ## Summary
 
@@ -51,7 +51,7 @@ Last updated: 2026-08-25 19:45 UTC
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | java | [Code](./875-koko-eating-bananas/875-koko-eating-bananas.java) | 2026-08-24 |
-| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Array, Binary Search | java | [Code](./1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java) | 2026-08-25 |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Array, Binary Search | java | [Code](./1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java) | 2026-08-28 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-08-11 |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium | Two Pointers, String | java | [Code](./1616-split-two-strings-to-make-palindrome/1616-split-two-strings-to-make-palindrome.java) | 2026-08-12 |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | - | java | [Code](./4024-nearest-available-drone/4024-nearest-available-drone.java) | 2026-08-17 |
