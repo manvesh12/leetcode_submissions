@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-08-28 17:54 UTC
+Last updated: 2026-08-30 17:41 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 19 | 10 | 8 | 1 |
+| 20 | 11 | 8 | 1 |
 
 ## Topics
 
@@ -16,8 +16,8 @@ Last updated: 2026-08-28 17:54 UTC
 | --- | ---: |
 | Array | 13 |
 | Binary Search | 7 |
-| Two Pointers | 6 |
-| String | 5 |
+| Two Pointers | 7 |
+| String | 6 |
 | Sliding Window | 3 |
 | Dynamic Programming | 2 |
 | Greedy | 2 |
@@ -47,6 +47,7 @@ Last updated: 2026-08-28 17:54 UTC
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
