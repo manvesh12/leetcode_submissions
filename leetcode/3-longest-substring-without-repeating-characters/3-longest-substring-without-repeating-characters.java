@@ -4,7 +4,7 @@ class Solution {
         int maxlen = 0;
         int left =0;
 
-        for(int i =0; i<s.length()-1;i++){
+        for(int i =0; i<s.length();i++){
             while(h1.contains(s.charAt(i))){
                 h1.remove(s.charAt(left));
                 left++;
