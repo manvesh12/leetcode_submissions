@@ -2,27 +2,28 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-10 09:40 UTC
+Last updated: 2026-09-10 11:58 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 21 | 12 | 8 | 1 |
+| 22 | 12 | 9 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 13 |
+| String | 8 |
 | Two Pointers | 8 |
 | Binary Search | 7 |
-| String | 7 |
+| Sliding Window | 4 |
 | Dynamic Programming | 3 |
-| Sliding Window | 3 |
 | Greedy | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
+| Hash Table | 1 |
 | Math | 1 |
 | Matrix | 1 |
 | Monotonic Stack | 1 |
@@ -36,6 +37,7 @@ Last updated: 2026-09-10 09:40 UTC
 
 | # | Problem | Difficulty | Topics | Language | Solution | Last accepted |
 | ---: | --- | --- | --- | --- | --- | --- |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java | [Code](./3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.java) | 2026-09-10 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | java | [Code](./11-container-with-most-water/11-container-with-most-water.java) | 2026-08-11 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | java | [Code](./14-longest-common-prefix/14-longest-common-prefix.java) | 2026-09-01 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | java | [Code](./34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.java) | 2026-08-21 |
