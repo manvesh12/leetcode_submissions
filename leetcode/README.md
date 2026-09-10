@@ -2,24 +2,24 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-01 17:56 UTC
+Last updated: 2026-09-10 05:26 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 20 | 11 | 8 | 1 |
+| 21 | 12 | 8 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 13 |
+| Two Pointers | 8 |
 | Binary Search | 7 |
-| Two Pointers | 7 |
-| String | 6 |
+| String | 7 |
+| Dynamic Programming | 3 |
 | Sliding Window | 3 |
-| Dynamic Programming | 2 |
 | Greedy | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
@@ -48,6 +48,7 @@ Last updated: 2026-09-01 17:56 UTC
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | java | [Code](./392-is-subsequence/392-is-subsequence.java) | 2026-09-10 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
