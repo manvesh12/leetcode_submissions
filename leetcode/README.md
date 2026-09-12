@@ -2,28 +2,28 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-11 18:02 UTC
+Last updated: 2026-09-12 06:43 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 22 | 12 | 9 | 1 |
+| 23 | 12 | 10 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 13 |
-| String | 8 |
-| Two Pointers | 8 |
+| String | 9 |
+| Two Pointers | 9 |
 | Binary Search | 7 |
-| Sliding Window | 4 |
+| Sliding Window | 5 |
 | Dynamic Programming | 3 |
 | Greedy | 2 |
+| Hash Table | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
-| Hash Table | 1 |
 | Math | 1 |
 | Matrix | 1 |
 | Monotonic Stack | 1 |
@@ -51,6 +51,7 @@ Last updated: 2026-09-11 18:02 UTC
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | java | [Code](./392-is-subsequence/392-is-subsequence.java) | 2026-09-10 |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | java | [Code](./567-permutation-in-string/567-permutation-in-string.java) | 2026-09-12 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
