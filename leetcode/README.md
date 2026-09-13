@@ -2,28 +2,29 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-13 16:35 UTC
+Last updated: 2026-09-13 17:10 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 24 | 12 | 11 | 1 |
+| 25 | 12 | 12 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 13 |
-| String | 10 |
-| Two Pointers | 9 |
+| String | 11 |
+| Two Pointers | 10 |
 | Binary Search | 7 |
 | Sliding Window | 6 |
-| Dynamic Programming | 3 |
+| Dynamic Programming | 4 |
 | Hash Table | 3 |
 | Greedy | 2 |
 | Sorting | 2 |
 | Bubble Sort | 1 |
+| Manacher | 1 |
 | Math | 1 |
 | Matrix | 1 |
 | Monotonic Stack | 1 |
@@ -38,6 +39,7 @@ Last updated: 2026-09-13 16:35 UTC
 | # | Problem | Difficulty | Topics | Language | Solution | Last accepted |
 | ---: | --- | --- | --- | --- | --- | --- |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | Hash Table, String, Sliding Window | java | [Code](./3-longest-substring-without-repeating-characters/3-longest-substring-without-repeating-characters.java) | 2026-09-10 |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | java | [Code](./5-longest-palindromic-substring/5-longest-palindromic-substring.java) | 2026-09-13 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | java | [Code](./11-container-with-most-water/11-container-with-most-water.java) | 2026-08-11 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | java | [Code](./14-longest-common-prefix/14-longest-common-prefix.java) | 2026-09-01 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | java | [Code](./34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.java) | 2026-08-21 |
