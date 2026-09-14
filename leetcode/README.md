@@ -2,27 +2,27 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-13 17:10 UTC
+Last updated: 2026-09-14 17:20 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 25 | 12 | 12 | 1 |
+| 26 | 12 | 13 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 13 |
-| String | 11 |
+| Array | 14 |
+| String | 12 |
 | Two Pointers | 10 |
 | Binary Search | 7 |
 | Sliding Window | 6 |
 | Dynamic Programming | 4 |
-| Hash Table | 3 |
+| Hash Table | 4 |
+| Sorting | 3 |
 | Greedy | 2 |
-| Sorting | 2 |
 | Bubble Sort | 1 |
 | Manacher | 1 |
 | Math | 1 |
@@ -44,6 +44,7 @@ Last updated: 2026-09-13 17:10 UTC
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | java | [Code](./14-longest-common-prefix/14-longest-common-prefix.java) | 2026-09-01 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | java | [Code](./34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.java) | 2026-08-21 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | java | [Code](./35-search-insert-position/35-search-insert-position.java) | 2026-08-19 |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java | [Code](./49-group-anagrams/49-group-anagrams.java) | 2026-09-14 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | java | [Code](./69-sqrtx/69-sqrtx.java) | 2026-08-22 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack | java | [Code](./85-maximal-rectangle/85-maximal-rectangle.java) | 2026-08-23 |
