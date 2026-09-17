@@ -2,25 +2,25 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-17 06:58 UTC
+Last updated: 2026-09-17 08:41 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 28 | 12 | 15 | 1 |
+| 29 | 12 | 16 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
+| String | 15 |
 | Array | 14 |
-| String | 14 |
-| Two Pointers | 11 |
+| Two Pointers | 12 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
+| Dynamic Programming | 5 |
 | Hash Table | 5 |
-| Dynamic Programming | 4 |
 | Sorting | 3 |
 | Greedy | 2 |
 | Bubble Sort | 1 |
@@ -59,6 +59,7 @@ Last updated: 2026-09-17 06:58 UTC
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Two Pointers, String | java | [Code](./443-string-compression/443-string-compression.java) | 2026-09-14 |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | java | [Code](./567-permutation-in-string/567-permutation-in-string.java) | 2026-09-12 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
+| 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java | [Code](./647-palindromic-substrings/647-palindromic-substrings.java) | 2026-09-17 |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | Two Pointers, String, Greedy | java | [Code](./680-valid-palindrome-ii/680-valid-palindrome-ii.java) | 2026-08-12 |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | java | [Code](./875-koko-eating-bananas/875-koko-eating-bananas.java) | 2026-08-24 |
