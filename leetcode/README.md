@@ -2,25 +2,25 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-14 17:46 UTC
+Last updated: 2026-09-17 06:58 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 27 | 12 | 14 | 1 |
+| 28 | 12 | 15 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | Array | 14 |
-| String | 13 |
+| String | 14 |
 | Two Pointers | 11 |
 | Binary Search | 7 |
-| Sliding Window | 6 |
+| Sliding Window | 7 |
+| Hash Table | 5 |
 | Dynamic Programming | 4 |
-| Hash Table | 4 |
 | Sorting | 3 |
 | Greedy | 2 |
 | Bubble Sort | 1 |
@@ -54,6 +54,7 @@ Last updated: 2026-09-14 17:46 UTC
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | java | [Code](./392-is-subsequence/392-is-subsequence.java) | 2026-09-10 |
+| 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | java | [Code](./424-longest-repeating-character-replacement/424-longest-repeating-character-replacement.java) | 2026-09-17 |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | java | [Code](./438-find-all-anagrams-in-a-string/438-find-all-anagrams-in-a-string.java) | 2026-09-13 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Two Pointers, String | java | [Code](./443-string-compression/443-string-compression.java) | 2026-09-14 |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | java | [Code](./567-permutation-in-string/567-permutation-in-string.java) | 2026-09-12 |
