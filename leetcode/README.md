@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-17 10:38 UTC
+Last updated: 2026-09-18 18:22 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 31 | 13 | 17 | 1 |
+| 32 | 13 | 18 | 1 |
 
 ## Topics
 
@@ -24,6 +24,7 @@ Last updated: 2026-09-17 10:38 UTC
 | Sorting | 3 |
 | Greedy | 2 |
 | Bubble Sort | 1 |
+| Linked List | 1 |
 | Manacher | 1 |
 | Math | 1 |
 | Matrix | 1 |
@@ -31,6 +32,7 @@ Last updated: 2026-09-17 10:38 UTC
 | Newton's Method | 1 |
 | Prefix Sum | 1 |
 | Quicksort | 1 |
+| Recursion | 1 |
 | Stack | 1 |
 | Trie | 1 |
 
@@ -42,6 +44,7 @@ Last updated: 2026-09-17 10:38 UTC
 | 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | Two Pointers, String, Dynamic Programming, Manacher | java | [Code](./5-longest-palindromic-substring/5-longest-palindromic-substring.java) | 2026-09-13 |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | Array, Two Pointers, Greedy | java | [Code](./11-container-with-most-water/11-container-with-most-water.java) | 2026-08-11 |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | Array, String, Trie | java | [Code](./14-longest-common-prefix/14-longest-common-prefix.java) | 2026-09-01 |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | Linked List, Recursion | java | [Code](./24-swap-nodes-in-pairs/24-swap-nodes-in-pairs.java) | 2026-09-18 |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | Medium | Array, Binary Search | java | [Code](./34-find-first-and-last-position-of-element-in-sorted-array/34-find-first-and-last-position-of-element-in-sorted-array.java) | 2026-08-21 |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | java | [Code](./35-search-insert-position/35-search-insert-position.java) | 2026-08-19 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java | [Code](./49-group-anagrams/49-group-anagrams.java) | 2026-09-14 |
