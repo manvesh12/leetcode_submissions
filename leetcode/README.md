@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-20 18:12 UTC
+Last updated: 2026-09-25 18:13 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 32 | 13 | 18 | 1 |
+| 33 | 14 | 18 | 1 |
 
 ## Topics
 
@@ -19,15 +19,16 @@ Last updated: 2026-09-20 18:12 UTC
 | Two Pointers | 13 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
+| Dynamic Programming | 6 |
 | Hash Table | 6 |
-| Dynamic Programming | 5 |
 | Sorting | 3 |
 | Greedy | 2 |
+| Math | 2 |
 | Bubble Sort | 1 |
 | Linked List | 1 |
 | Manacher | 1 |
-| Math | 1 |
 | Matrix | 1 |
+| Memoization | 1 |
 | Monotonic Stack | 1 |
 | Newton's Method | 1 |
 | Prefix Sum | 1 |
@@ -49,6 +50,7 @@ Last updated: 2026-09-20 18:12 UTC
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Array, Binary Search | java | [Code](./35-search-insert-position/35-search-insert-position.java) | 2026-08-19 |
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java | [Code](./49-group-anagrams/49-group-anagrams.java) | 2026-09-14 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | java | [Code](./69-sqrtx/69-sqrtx.java) | 2026-08-22 |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | java | [Code](./70-climbing-stairs/70-climbing-stairs.java) | 2026-09-25 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack | java | [Code](./85-maximal-rectangle/85-maximal-rectangle.java) | 2026-08-23 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
