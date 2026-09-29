@@ -2,23 +2,23 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-28 18:31 UTC
+Last updated: 2026-09-29 08:20 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 34 | 15 | 18 | 1 |
+| 35 | 15 | 19 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
 | String | 17 |
-| Array | 15 |
+| Array | 16 |
 | Two Pointers | 13 |
+| Dynamic Programming | 8 |
 | Binary Search | 7 |
-| Dynamic Programming | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
 | Sorting | 3 |
@@ -57,6 +57,7 @@ Last updated: 2026-09-28 18:31 UTC
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Two Pointers, String | java | [Code](./151-reverse-words-in-a-string/151-reverse-words-in-a-string.java) | 2026-09-17 |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | java | [Code](./198-house-robber/198-house-robber.java) | 2026-09-29 |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | java | [Code](./205-isomorphic-strings/205-isomorphic-strings.java) | 2026-09-20 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
