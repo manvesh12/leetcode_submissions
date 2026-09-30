@@ -2,22 +2,22 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-09-29 08:20 UTC
+Last updated: 2026-09-30 08:45 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 35 | 15 | 19 | 1 |
+| 36 | 15 | 20 | 1 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
+| Array | 17 |
 | String | 17 |
-| Array | 16 |
 | Two Pointers | 13 |
-| Dynamic Programming | 8 |
+| Dynamic Programming | 9 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
@@ -60,6 +60,7 @@ Last updated: 2026-09-29 08:20 UTC
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | java | [Code](./198-house-robber/198-house-robber.java) | 2026-09-29 |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | java | [Code](./205-isomorphic-strings/205-isomorphic-strings.java) | 2026-09-20 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
+| 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | java | [Code](./213-house-robber-ii/213-house-robber-ii.java) | 2026-09-30 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | java | [Code](./392-is-subsequence/392-is-subsequence.java) | 2026-09-10 |
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | java | [Code](./424-longest-repeating-character-replacement/424-longest-repeating-character-replacement.java) | 2026-09-17 |
