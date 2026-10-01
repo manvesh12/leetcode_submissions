@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-01 09:44 UTC
+Last updated: 2026-10-01 09:58 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 38 | 16 | 20 | 2 |
+| 39 | 17 | 20 | 2 |
 
 ## Topics
 
@@ -17,14 +17,14 @@ Last updated: 2026-10-01 09:44 UTC
 | Array | 18 |
 | String | 17 |
 | Two Pointers | 13 |
-| Dynamic Programming | 11 |
+| Dynamic Programming | 12 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
-| Math | 3 |
+| Math | 4 |
+| Memoization | 3 |
 | Sorting | 3 |
 | Greedy | 2 |
-| Memoization | 2 |
 | Recursion | 2 |
 | Bubble Sort | 1 |
 | Linked List | 1 |
@@ -76,6 +76,7 @@ Last updated: 2026-10-01 09:44 UTC
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | Array, Dynamic Programming | java | [Code](./746-min-cost-climbing-stairs/746-min-cost-climbing-stairs.java) | 2026-09-28 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | java | [Code](./875-koko-eating-bananas/875-koko-eating-bananas.java) | 2026-08-24 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Array, Binary Search | java | [Code](./1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java) | 2026-08-28 |
+| 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Math, Dynamic Programming, Memoization | java | [Code](./1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.java) | 2026-10-01 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-09-11 |
 | 1616 | [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) | Medium | Two Pointers, String | java | [Code](./1616-split-two-strings-to-make-palindrome/1616-split-two-strings-to-make-palindrome.java) | 2026-08-12 |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone/) | Easy | - | java | [Code](./4024-nearest-available-drone/4024-nearest-available-drone.java) | 2026-08-17 |
