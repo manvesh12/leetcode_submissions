@@ -2,22 +2,22 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-01 09:58 UTC
+Last updated: 2026-10-01 10:35 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 39 | 17 | 20 | 2 |
+| 40 | 18 | 20 | 2 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 18 |
+| Array | 19 |
 | String | 17 |
+| Dynamic Programming | 13 |
 | Two Pointers | 13 |
-| Dynamic Programming | 12 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
@@ -54,6 +54,7 @@ Last updated: 2026-10-01 09:58 UTC
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
 | 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | Hard | Array, Dynamic Programming, Stack, Matrix, Monotonic Stack | java | [Code](./85-maximal-rectangle/85-maximal-rectangle.java) | 2026-08-23 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
+| 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | java | [Code](./118-pascals-triangle/118-pascals-triangle.java) | 2026-10-01 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Two Pointers, String | java | [Code](./151-reverse-words-in-a-string/151-reverse-words-in-a-string.java) | 2026-09-17 |
