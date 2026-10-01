@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-01 09:18 UTC
+Last updated: 2026-10-01 09:44 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 37 | 15 | 20 | 2 |
+| 38 | 16 | 20 | 2 |
 
 ## Topics
 
@@ -17,23 +17,23 @@ Last updated: 2026-10-01 09:18 UTC
 | Array | 18 |
 | String | 17 |
 | Two Pointers | 13 |
-| Dynamic Programming | 10 |
+| Dynamic Programming | 11 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
+| Math | 3 |
 | Sorting | 3 |
 | Greedy | 2 |
-| Math | 2 |
+| Memoization | 2 |
+| Recursion | 2 |
 | Bubble Sort | 1 |
 | Linked List | 1 |
 | Manacher | 1 |
 | Matrix | 1 |
-| Memoization | 1 |
 | Monotonic Stack | 1 |
 | Newton's Method | 1 |
 | Prefix Sum | 1 |
 | Quicksort | 1 |
-| Recursion | 1 |
 | Stack | 1 |
 | Trie | 1 |
 
@@ -67,6 +67,7 @@ Last updated: 2026-10-01 09:18 UTC
 | 424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | Medium | Hash Table, String, Sliding Window | java | [Code](./424-longest-repeating-character-replacement/424-longest-repeating-character-replacement.java) | 2026-09-17 |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | Hash Table, String, Sliding Window | java | [Code](./438-find-all-anagrams-in-a-string/438-find-all-anagrams-in-a-string.java) | 2026-09-13 |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | Two Pointers, String | java | [Code](./443-string-compression/443-string-compression.java) | 2026-09-14 |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | Math, Dynamic Programming, Recursion, Memoization | java | [Code](./509-fibonacci-number/509-fibonacci-number.java) | 2026-10-01 |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | Hash Table, Two Pointers, String, Sliding Window | java | [Code](./567-permutation-in-string/567-permutation-in-string.java) | 2026-09-12 |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | Array, Sliding Window | java | [Code](./643-maximum-average-subarray-i/643-maximum-average-subarray-i.java) | 2026-08-11 |
 | 647 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Medium | Two Pointers, String, Dynamic Programming | java | [Code](./647-palindromic-substrings/647-palindromic-substrings.java) | 2026-09-17 |
