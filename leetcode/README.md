@@ -2,30 +2,30 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-03 08:22 UTC
+Last updated: 2026-10-03 08:55 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 43 | 19 | 22 | 2 |
+| 44 | 19 | 23 | 2 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 21 |
+| Array | 22 |
+| Dynamic Programming | 17 |
 | String | 17 |
-| Dynamic Programming | 16 |
 | Two Pointers | 13 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
 | Math | 5 |
+| Matrix | 3 |
 | Memoization | 3 |
 | Sorting | 3 |
 | Greedy | 2 |
-| Matrix | 2 |
 | Recursion | 2 |
 | Bubble Sort | 1 |
 | Combinatorics | 1 |
@@ -52,6 +52,7 @@ Last updated: 2026-10-03 08:22 UTC
 | 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Medium | Array, Hash Table, String, Sorting | java | [Code](./49-group-anagrams/49-group-anagrams.java) | 2026-09-14 |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Medium | Math, Dynamic Programming, Combinatorics | java | [Code](./62-unique-paths/62-unique-paths.java) | 2026-10-03 |
 | 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./63-unique-paths-ii/63-unique-paths-ii.java) | 2026-10-03 |
+| 64 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./64-minimum-path-sum/64-minimum-path-sum.java) | 2026-10-03 |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | Easy | Math, Binary Search, Newton's Method | java | [Code](./69-sqrtx/69-sqrtx.java) | 2026-08-22 |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Easy | Math, Dynamic Programming, Memoization | java | [Code](./70-climbing-stairs/70-climbing-stairs.java) | 2026-09-25 |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | Array, Two Pointers, Sorting, Quicksort, Bubble Sort | java | [Code](./75-sort-colors/75-sort-colors.java) | 2026-08-18 |
