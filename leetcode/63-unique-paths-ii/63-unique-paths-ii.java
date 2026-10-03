@@ -9,7 +9,7 @@ class Solution {
         return solve(0,0,m,n,dp,obstacleGrid);
     }
     public int solve(int a , int b , int m ,int n , int [][] dp , int [][] obstacleGrid){
-        if(a>=m || b>=m) return 0;
+        if(a>=m || b>=n) return 0;
         if(obstacleGrid[a][b]==1) return 0;
         if(a== m-1 && b == n-1) return 1;
         if(dp[a][b]!=-1) return dp[a][b];
