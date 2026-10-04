@@ -2,10 +2,8 @@ class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
         int rowIndex = triangle.size();
         
-        int [][] dp = new int[rowIndex][rowIndex];
-        for( int [] rows : dp){
-            Arrays.fill(rows,-1);
-        }
+        Integer [][] dp = new int[rowIndex][rowIndex];
+        
         return solve(0,0,dp,triangle);
     }
     public int solve(int a , int b , int [][]dp,List<List<Integer>> tri){
