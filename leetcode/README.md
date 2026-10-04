@@ -2,20 +2,20 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-03 08:55 UTC
+Last updated: 2026-10-04 06:31 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 44 | 19 | 23 | 2 |
+| 45 | 19 | 24 | 2 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 22 |
-| Dynamic Programming | 17 |
+| Array | 23 |
+| Dynamic Programming | 18 |
 | String | 17 |
 | Two Pointers | 13 |
 | Binary Search | 7 |
@@ -60,6 +60,7 @@ Last updated: 2026-10-03 08:55 UTC
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | java | [Code](./118-pascals-triangle/118-pascals-triangle.java) | 2026-10-01 |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Array, Dynamic Programming | java | [Code](./119-pascals-triangle-ii/119-pascals-triangle-ii.java) | 2026-10-02 |
+| 120 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | Array, Dynamic Programming | java | [Code](./120-triangle/120-triangle.java) | 2026-10-04 |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Array, Dynamic Programming | java | [Code](./121-best-time-to-buy-and-sell-stock/121-best-time-to-buy-and-sell-stock.java) | 2026-08-15 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Two Pointers, String | java | [Code](./151-reverse-words-in-a-string/151-reverse-words-in-a-string.java) | 2026-09-17 |
