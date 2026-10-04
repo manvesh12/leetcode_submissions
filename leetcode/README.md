@@ -2,27 +2,27 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-04 06:36 UTC
+Last updated: 2026-10-04 06:55 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 45 | 19 | 24 | 2 |
+| 46 | 19 | 25 | 2 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 23 |
-| Dynamic Programming | 18 |
+| Array | 24 |
+| Dynamic Programming | 19 |
 | String | 17 |
 | Two Pointers | 13 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
 | Math | 5 |
-| Matrix | 3 |
+| Matrix | 4 |
 | Memoization | 3 |
 | Sorting | 3 |
 | Greedy | 2 |
@@ -82,6 +82,7 @@ Last updated: 2026-10-04 06:36 UTC
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | Array, Binary Search | java | [Code](./704-binary-search/704-binary-search.java) | 2026-08-19 |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | Array, Dynamic Programming | java | [Code](./746-min-cost-climbing-stairs/746-min-cost-climbing-stairs.java) | 2026-09-28 |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | Array, Binary Search | java | [Code](./875-koko-eating-bananas/875-koko-eating-bananas.java) | 2026-08-24 |
+| 931 | [Minimum Falling Path Sum](https://leetcode.com/problems/minimum-falling-path-sum/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./931-minimum-falling-path-sum/931-minimum-falling-path-sum.java) | 2026-10-04 |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | Array, Binary Search | java | [Code](./1011-capacity-to-ship-packages-within-d-days/1011-capacity-to-ship-packages-within-d-days.java) | 2026-08-28 |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | Easy | Math, Dynamic Programming, Memoization | java | [Code](./1137-n-th-tribonacci-number/1137-n-th-tribonacci-number.java) | 2026-10-01 |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | String, Sliding Window | java | [Code](./1456-maximum-number-of-vowels-in-a-substring-of-given-length/1456-maximum-number-of-vowels-in-a-substring-of-given-length.java) | 2026-09-11 |
