@@ -2,33 +2,36 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-04 06:55 UTC
+Last updated: 2026-10-07 05:43 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 46 | 19 | 25 | 2 |
+| 48 | 19 | 27 | 2 |
 
 ## Topics
 
 | Topic | Solved |
 | --- | ---: |
-| Array | 24 |
-| Dynamic Programming | 19 |
+| Array | 25 |
+| Dynamic Programming | 21 |
 | String | 17 |
 | Two Pointers | 13 |
 | Binary Search | 7 |
 | Sliding Window | 7 |
 | Hash Table | 6 |
-| Math | 5 |
-| Matrix | 4 |
+| Math | 6 |
+| Matrix | 5 |
 | Memoization | 3 |
 | Sorting | 3 |
 | Greedy | 2 |
 | Recursion | 2 |
+| Breadth-First Search | 1 |
 | Bubble Sort | 1 |
 | Combinatorics | 1 |
+| Complete Knapsack | 1 |
+| Knapsack Problem | 1 |
 | Linked List | 1 |
 | Manacher | 1 |
 | Monotonic Stack | 1 |
@@ -68,6 +71,8 @@ Last updated: 2026-10-04 06:55 UTC
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | java | [Code](./205-isomorphic-strings/205-isomorphic-strings.java) | 2026-09-20 |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | java | [Code](./213-house-robber-ii/213-house-robber-ii.java) | 2026-09-30 |
+| 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./221-maximal-square/221-maximal-square.java) | 2026-10-07 |
+| 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | java | [Code](./279-perfect-squares/279-perfect-squares.java) | 2026-10-06 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | Two Pointers, String, Dynamic Programming | java | [Code](./392-is-subsequence/392-is-subsequence.java) | 2026-09-10 |
 | 403 | [Frog Jump](https://leetcode.com/problems/frog-jump/) | Hard | Array, Dynamic Programming | java | [Code](./403-frog-jump/403-frog-jump.java) | 2026-10-01 |
