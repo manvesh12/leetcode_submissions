@@ -1,7 +1,7 @@
 class Solution {
     public void sortColors(int[] nums) {
         int n = nums.length;
-        int [] arr = new int [n];
+        
         int z = 0 ;
         int a = n-1;
         int i = 0;
