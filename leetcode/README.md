@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-17 09:23 UTC
+Last updated: 2026-10-17 09:28 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 54 | 22 | 30 | 2 |
+| 55 | 23 | 30 | 2 |
 
 ## Topics
 
@@ -24,13 +24,13 @@ Last updated: 2026-10-17 09:23 UTC
 | Sliding Window | 7 |
 | Matrix | 5 |
 | Memoization | 4 |
+| Stack | 4 |
+| Binary Tree | 3 |
+| Depth-First Search | 3 |
 | Sorting | 3 |
-| Stack | 3 |
-| Binary Tree | 2 |
-| Depth-First Search | 2 |
+| Tree | 3 |
 | Greedy | 2 |
 | Recursion | 2 |
-| Tree | 2 |
 | Trie | 2 |
 | Brainteaser | 1 |
 | Breadth-First Search | 1 |
@@ -77,6 +77,7 @@ Last updated: 2026-10-17 09:23 UTC
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | Two Pointers, String | java | [Code](./125-valid-palindrome/125-valid-palindrome.java) | 2026-08-11 |
 | 139 | [Word Break](https://leetcode.com/problems/word-break/) | Medium | Array, Hash Table, String, Dynamic Programming, Trie, Memoization, Brute-Force Search | java | [Code](./139-word-break/139-word-break.java) | 2026-10-14 |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | java | [Code](./144-binary-tree-preorder-traversal/144-binary-tree-preorder-traversal.java) | 2026-10-17 |
+| 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | java | [Code](./145-binary-tree-postorder-traversal/145-binary-tree-postorder-traversal.java) | 2026-10-17 |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | Two Pointers, String | java | [Code](./151-reverse-words-in-a-string/151-reverse-words-in-a-string.java) | 2026-09-17 |
 | 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Medium | Array, Dynamic Programming | java | [Code](./198-house-robber/198-house-robber.java) | 2026-09-29 |
 | 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | Easy | Hash Table, String | java | [Code](./205-isomorphic-strings/205-isomorphic-strings.java) | 2026-09-20 |
