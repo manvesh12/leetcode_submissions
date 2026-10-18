@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-17 09:28 UTC
+Last updated: 2026-10-18 18:18 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 55 | 23 | 30 | 2 |
+| 56 | 23 | 31 | 2 |
 
 ## Topics
 
@@ -23,17 +23,17 @@ Last updated: 2026-10-17 09:28 UTC
 | Math | 7 |
 | Sliding Window | 7 |
 | Matrix | 5 |
+| Binary Tree | 4 |
 | Memoization | 4 |
 | Stack | 4 |
-| Binary Tree | 3 |
+| Tree | 4 |
 | Depth-First Search | 3 |
 | Sorting | 3 |
-| Tree | 3 |
+| Breadth-First Search | 2 |
 | Greedy | 2 |
 | Recursion | 2 |
 | Trie | 2 |
 | Brainteaser | 1 |
-| Breadth-First Search | 1 |
 | Brute-Force Search | 1 |
 | Bubble Sort | 1 |
 | Combinatorics | 1 |
@@ -70,6 +70,7 @@ Last updated: 2026-10-17 09:28 UTC
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | Array, Two Pointers, Sorting | java | [Code](./88-merge-sorted-array/88-merge-sorted-array.java) | 2026-08-18 |
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | java | [Code](./91-decode-ways/91-decode-ways.java) | 2026-10-13 |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | java | [Code](./94-binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.java) | 2026-10-17 |
+| 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | java | [Code](./102-binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.java) | 2026-10-18 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | java | [Code](./118-pascals-triangle/118-pascals-triangle.java) | 2026-10-01 |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | Easy | Array, Dynamic Programming | java | [Code](./119-pascals-triangle-ii/119-pascals-triangle-ii.java) | 2026-10-02 |
 | 120 | [Triangle](https://leetcode.com/problems/triangle/) | Medium | Array, Dynamic Programming | java | [Code](./120-triangle/120-triangle.java) | 2026-10-04 |
