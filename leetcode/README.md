@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-24 18:32 UTC
+Last updated: 2026-10-25 18:31 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 58 | 25 | 31 | 2 |
+| 59 | 26 | 31 | 2 |
 
 ## Topics
 
@@ -19,14 +19,14 @@ Last updated: 2026-10-24 18:32 UTC
 | String | 19 |
 | Two Pointers | 13 |
 | Binary Search | 7 |
+| Binary Tree | 7 |
 | Hash Table | 7 |
 | Math | 7 |
 | Sliding Window | 7 |
-| Binary Tree | 6 |
-| Tree | 6 |
-| Depth-First Search | 5 |
+| Tree | 7 |
+| Depth-First Search | 6 |
+| Breadth-First Search | 5 |
 | Matrix | 5 |
-| Breadth-First Search | 4 |
 | Memoization | 4 |
 | Stack | 4 |
 | Sorting | 3 |
@@ -87,6 +87,7 @@ Last updated: 2026-10-24 18:32 UTC
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | Array, Binary Search, Sliding Window, Prefix Sum | java | [Code](./209-minimum-size-subarray-sum/209-minimum-size-subarray-sum.java) | 2026-08-13 |
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | java | [Code](./213-house-robber-ii/213-house-robber-ii.java) | 2026-09-30 |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./221-maximal-square/221-maximal-square.java) | 2026-10-07 |
+| 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java | [Code](./226-invert-binary-tree/226-invert-binary-tree.java) | 2026-10-25 |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | java | [Code](./279-perfect-squares/279-perfect-squares.java) | 2026-10-06 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | java | [Code](./377-combination-sum-iv/377-combination-sum-iv.java) | 2026-10-12 |
