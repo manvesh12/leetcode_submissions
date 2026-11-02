@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-10-25 18:31 UTC
+Last updated: 2026-11-02 16:15 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 59 | 26 | 31 | 2 |
+| 60 | 27 | 31 | 2 |
 
 ## Topics
 
@@ -18,14 +18,14 @@ Last updated: 2026-10-25 18:31 UTC
 | Dynamic Programming | 25 |
 | String | 19 |
 | Two Pointers | 13 |
+| Binary Tree | 8 |
+| Tree | 8 |
 | Binary Search | 7 |
-| Binary Tree | 7 |
+| Depth-First Search | 7 |
 | Hash Table | 7 |
 | Math | 7 |
 | Sliding Window | 7 |
-| Tree | 7 |
-| Depth-First Search | 6 |
-| Breadth-First Search | 5 |
+| Breadth-First Search | 6 |
 | Matrix | 5 |
 | Memoization | 4 |
 | Stack | 4 |
@@ -71,6 +71,7 @@ Last updated: 2026-10-25 18:31 UTC
 | 91 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Medium | String, Dynamic Programming | java | [Code](./91-decode-ways/91-decode-ways.java) | 2026-10-13 |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Easy | Stack, Tree, Depth-First Search, Binary Tree | java | [Code](./94-binary-tree-inorder-traversal/94-binary-tree-inorder-traversal.java) | 2026-10-17 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java | [Code](./100-same-tree/100-same-tree.java) | 2026-10-24 |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java | [Code](./101-symmetric-tree/101-symmetric-tree.java) | 2026-11-02 |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Medium | Tree, Breadth-First Search, Binary Tree | java | [Code](./102-binary-tree-level-order-traversal/102-binary-tree-level-order-traversal.java) | 2026-10-18 |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java | [Code](./104-maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.java) | 2026-10-23 |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | Easy | Array, Dynamic Programming | java | [Code](./118-pascals-triangle/118-pascals-triangle.java) | 2026-10-01 |
