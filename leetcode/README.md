@@ -2,13 +2,13 @@
 
 > Automatically updated after each accepted submission.
 
-Last updated: 2026-11-02 16:15 UTC
+Last updated: 2026-11-03 18:15 UTC
 
 ## Summary
 
 | Total | Easy | Medium | Hard |
 | ---: | ---: | ---: | ---: |
-| 60 | 27 | 31 | 2 |
+| 61 | 28 | 31 | 2 |
 
 ## Topics
 
@@ -16,12 +16,12 @@ Last updated: 2026-11-02 16:15 UTC
 | --- | ---: |
 | Array | 27 |
 | Dynamic Programming | 25 |
-| String | 19 |
+| String | 20 |
 | Two Pointers | 13 |
-| Binary Tree | 8 |
-| Tree | 8 |
+| Binary Tree | 9 |
+| Tree | 9 |
+| Depth-First Search | 8 |
 | Binary Search | 7 |
-| Depth-First Search | 7 |
 | Hash Table | 7 |
 | Math | 7 |
 | Sliding Window | 7 |
@@ -33,6 +33,7 @@ Last updated: 2026-11-02 16:15 UTC
 | Greedy | 2 |
 | Recursion | 2 |
 | Trie | 2 |
+| Backtracking | 1 |
 | Brainteaser | 1 |
 | Brute-Force Search | 1 |
 | Bubble Sort | 1 |
@@ -89,6 +90,7 @@ Last updated: 2026-11-02 16:15 UTC
 | 213 | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | Medium | Array, Dynamic Programming | java | [Code](./213-house-robber-ii/213-house-robber-ii.java) | 2026-09-30 |
 | 221 | [Maximal Square](https://leetcode.com/problems/maximal-square/) | Medium | Array, Dynamic Programming, Matrix | java | [Code](./221-maximal-square/221-maximal-square.java) | 2026-10-07 |
 | 226 | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | Easy | Tree, Depth-First Search, Breadth-First Search, Binary Tree | java | [Code](./226-invert-binary-tree/226-invert-binary-tree.java) | 2026-10-25 |
+| 257 | [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) | Easy | String, Backtracking, Tree, Depth-First Search, Binary Tree | python | [Code](./257-binary-tree-paths/257-binary-tree-paths.py) | 2026-11-03 |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | Medium | Math, Dynamic Programming, Breadth-First Search, Knapsack Problem, Complete Knapsack | java | [Code](./279-perfect-squares/279-perfect-squares.java) | 2026-10-06 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | Two Pointers, String | java | [Code](./344-reverse-string/344-reverse-string.java) | 2026-08-30 |
 | 377 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Medium | Array, Dynamic Programming | java | [Code](./377-combination-sum-iv/377-combination-sum-iv.java) | 2026-10-12 |
